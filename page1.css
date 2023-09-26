@@ -1,0 +1,9 @@
+@charset "utf-8";
+body {
+  background-color: lawngreen;
+}
+
+body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Verdana", "sans-serif";
+	color: white
+}
